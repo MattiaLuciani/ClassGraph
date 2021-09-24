@@ -1,0 +1,178 @@
+2021-09-24 12:12:35,093 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 12:12:35,093 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 12:12:35,094 - INFO - Existing binning output file: /Users/mattialuciani/Desktop/AlgoBio/SimDataset500000/truth_all_500000_2.tsv
+2021-09-24 12:12:35,094 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 12:12:35,094 - INFO - Maximum number of iterations: 20
+2021-09-24 12:12:35,094 - INFO - Label propagation v1
+2021-09-24 12:12:35,094 - INFO - ReadGraph started
+2021-09-24 12:12:35,094 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 12:12:51,660 - ERROR - Please make sure that the correct path to the assembly graph file is provided.
+2021-09-24 12:12:51,661 - INFO - Exiting ClassGraph... Bye...!
+2021-09-24 12:15:28,414 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 12:15:28,415 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 12:15:28,415 - INFO - Existing binning output file: /Users/mattialuciani/Desktop/AlgoBio/SimDataset500000/truth_all_500000_2.tsv
+2021-09-24 12:15:28,415 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 12:15:28,415 - INFO - Maximum number of iterations: 20
+2021-09-24 12:15:28,415 - INFO - Label propagation v1
+2021-09-24 12:15:28,415 - INFO - ReadGraph started
+2021-09-24 12:15:28,415 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 12:15:44,215 - ERROR - Please make sure that the correct path to the assembly graph file is provided.
+2021-09-24 12:15:44,215 - INFO - Exiting ClassGraph... Bye...!
+2021-09-24 12:26:04,065 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 12:26:04,066 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 12:26:04,066 - INFO - Existing binning output file: /Users/mattialuciani/Desktop/AlgoBio/SimDataset500000/truth_all_500000_2.tsv
+2021-09-24 12:26:04,066 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 12:26:04,066 - INFO - Maximum number of iterations: 20
+2021-09-24 12:26:04,066 - INFO - Label propagation v1
+2021-09-24 12:26:04,066 - INFO - ReadGraph started
+2021-09-24 12:26:04,066 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 12:26:19,728 - ERROR - Please make sure that the correct path to the assembly graph file is provided.
+2021-09-24 12:26:19,729 - INFO - Exiting ClassGraph... Bye...!
+2021-09-24 12:28:42,884 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 12:28:42,885 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 12:28:42,885 - INFO - Existing binning output file: /Users/mattialuciani/Desktop/AlgoBio/SimDataset500000/truth_all_500000_2.tsv
+2021-09-24 12:28:42,885 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 12:28:42,885 - INFO - Maximum number of iterations: 20
+2021-09-24 12:28:42,885 - INFO - Label propagation v1
+2021-09-24 12:28:42,885 - INFO - ReadGraph started
+2021-09-24 12:28:42,885 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 12:28:57,614 - ERROR - Please make sure that the correct path to the assembly graph file is provided.
+2021-09-24 12:28:57,614 - INFO - Exiting ClassGraph... Bye...!
+2021-09-24 16:22:52,274 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 16:22:52,275 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 16:22:52,276 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 16:22:52,276 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 16:22:52,276 - INFO - Maximum number of iterations: 20
+2021-09-24 16:22:52,276 - INFO - Label propagation v1
+2021-09-24 16:22:52,276 - INFO - ReadGraph started
+2021-09-24 16:22:52,276 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 16:22:52,835 - ERROR - Please make sure that the correct path to the assembly graph file is provided.
+2021-09-24 16:22:52,836 - INFO - Exiting ClassGraph... Bye...!
+2021-09-24 16:33:16,869 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 16:33:16,870 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 16:33:16,870 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 16:33:16,870 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 16:33:16,870 - INFO - Maximum number of iterations: 20
+2021-09-24 16:33:16,870 - INFO - Label propagation v1
+2021-09-24 16:33:16,870 - INFO - ReadGraph started
+2021-09-24 16:33:16,870 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 16:33:17,405 - ERROR - Please make sure that the correct path to the assembly graph file is provided.
+2021-09-24 16:33:17,405 - INFO - Exiting ClassGraph... Bye...!
+2021-09-24 16:34:33,741 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 16:34:33,758 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 16:34:33,758 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 16:34:33,758 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 16:34:33,759 - INFO - Maximum number of iterations: 20
+2021-09-24 16:34:33,759 - INFO - Label propagation v1
+2021-09-24 16:34:33,759 - INFO - ReadGraph started
+2021-09-24 16:34:33,759 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 16:34:34,292 - ERROR - Please make sure that the correct path to the assembly graph file is provided.
+2021-09-24 16:34:34,292 - INFO - Exiting ClassGraph... Bye...!
+2021-09-24 16:35:45,543 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 16:35:45,544 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 16:35:45,544 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 16:35:45,544 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 16:35:45,544 - INFO - Maximum number of iterations: 20
+2021-09-24 16:35:45,544 - INFO - Label propagation v1
+2021-09-24 16:35:45,544 - INFO - ReadGraph started
+2021-09-24 16:35:45,544 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 16:35:46,106 - ERROR - Please make sure that the correct path to the assembly graph file is provided.
+2021-09-24 16:35:46,107 - INFO - Exiting ClassGraph... Bye...!
+2021-09-24 16:36:42,367 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 16:36:42,367 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 16:36:42,367 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 16:36:42,367 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 16:36:42,368 - INFO - Maximum number of iterations: 20
+2021-09-24 16:36:42,368 - INFO - Label propagation v1
+2021-09-24 16:36:42,368 - INFO - ReadGraph started
+2021-09-24 16:36:42,368 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 16:36:43,007 - ERROR - Please make sure that the correct path to the assembly graph file is provided.
+2021-09-24 16:36:43,007 - INFO - Exiting ClassGraph... Bye...!
+2021-09-24 16:38:06,527 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 16:38:06,527 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 16:38:06,527 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 16:38:06,527 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 16:38:06,528 - INFO - Maximum number of iterations: 20
+2021-09-24 16:38:06,528 - INFO - Label propagation v1
+2021-09-24 16:38:06,528 - INFO - ReadGraph started
+2021-09-24 16:38:06,528 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 16:38:07,177 - ERROR - Please make sure that the correct path to the assembly graph file is provided.
+2021-09-24 16:38:07,177 - INFO - Exiting ClassGraph... Bye...!
+2021-09-24 17:11:26,413 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 17:11:26,414 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 17:11:26,414 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 17:11:26,414 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 17:11:26,414 - INFO - Maximum number of iterations: 20
+2021-09-24 17:11:26,414 - INFO - Label propagation v1
+2021-09-24 17:11:26,414 - INFO - ReadGraph started
+2021-09-24 17:11:26,414 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 17:11:26,993 - INFO - Total number of edges in the assembly graph: 25304
+2021-09-24 17:11:26,993 - INFO - Preparing data for label propagation
+2021-09-24 17:11:27,155 - INFO - Starting label propagation
+2021-09-24 17:11:27,155 - ERROR - Please make sure that you inserted the correct parameter for the lp version (either 1 or 2)
+2021-09-24 17:11:27,155 - INFO - Exiting ClassGraph.. Bye...!
+2021-09-24 17:12:04,221 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 17:12:04,222 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 17:12:04,222 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 17:12:04,222 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 17:12:04,222 - INFO - Maximum number of iterations: 20
+2021-09-24 17:12:04,222 - INFO - Label propagation v1
+2021-09-24 17:12:04,222 - INFO - ReadGraph started
+2021-09-24 17:12:04,222 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 17:12:04,798 - INFO - Total number of edges in the assembly graph: 25304
+2021-09-24 17:12:04,798 - INFO - Preparing data for label propagation
+2021-09-24 17:12:04,962 - INFO - Starting label propagation
+2021-09-24 17:12:05,363 - INFO - ***************Label propagation termined**************
+2021-09-24 17:12:05,403 - INFO - Final binning results can be found at /Users/mattialuciani/ClassGraph/outputexample1.res
+2021-09-24 17:15:14,749 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 17:15:14,749 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 17:15:14,750 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 17:15:14,750 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 17:15:14,750 - INFO - Maximum number of iterations: 20
+2021-09-24 17:15:14,750 - INFO - Label propagation v1
+2021-09-24 17:15:14,750 - INFO - ReadGraph started
+2021-09-24 17:15:14,750 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 17:15:15,335 - INFO - Total number of edges in the assembly graph: 25304
+2021-09-24 17:15:15,335 - INFO - Preparing data for label propagation
+2021-09-24 17:15:15,491 - INFO - Starting label propagation
+2021-09-24 17:15:15,880 - INFO - ***************Label propagation termined**************
+2021-09-24 17:15:15,923 - INFO - Final binning results can be found at /Users/mattialuciani/ClassGraph/outputexample1.res
+2021-09-24 17:52:02,746 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 17:52:02,748 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 17:52:02,748 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 17:52:02,748 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 17:52:02,748 - INFO - Maximum number of iterations: 20
+2021-09-24 17:52:02,748 - INFO - Label propagation v1
+2021-09-24 17:52:02,748 - INFO - ReadGraph started
+2021-09-24 17:52:02,748 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 17:52:03,375 - INFO - Total number of edges in the assembly graph: 25304
+2021-09-24 17:52:03,375 - INFO - Preparing data for label propagation
+2021-09-24 17:52:03,534 - INFO - Starting label propagation
+2021-09-24 17:52:03,921 - INFO - ***************Label propagation termined**************
+2021-09-24 17:52:03,970 - INFO - Final binning results can be found at /Users/mattialuciani/ClassGraph/outputexample1.res
+2021-09-24 17:52:11,579 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 17:52:11,579 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 17:52:11,579 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 17:52:11,579 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 17:52:11,579 - INFO - Maximum number of iterations: 20
+2021-09-24 17:52:11,579 - INFO - Label propagation v1
+2021-09-24 17:52:11,579 - INFO - ReadGraph started
+2021-09-24 17:52:11,579 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 17:52:12,153 - INFO - Total number of edges in the assembly graph: 25304
+2021-09-24 17:52:12,153 - INFO - Preparing data for label propagation
+2021-09-24 17:52:12,314 - INFO - Starting label propagation
+2021-09-24 17:52:12,314 - ERROR - Please make sure that you inserted the correct parameter for the lp version (either 1 or 2)
+2021-09-24 17:52:12,314 - INFO - Exiting ClassGraph.. Bye...!
+2021-09-24 17:52:29,066 - INFO - ReadGraph makes use of the assembly graph produced by SGA
+2021-09-24 17:52:29,066 - INFO - Overlap graph file: /Users/mattialuciani/ClassGraph/Testing-Files/OverlapGraph.asqg
+2021-09-24 17:52:29,066 - INFO - Existing binning output file: /Users/mattialuciani/ClassGraph/Testing-Files/binning.res
+2021-09-24 17:52:29,066 - INFO - Final binning output file: /Users/mattialuciani/ClassGraph/output
+2021-09-24 17:52:29,066 - INFO - Maximum number of iterations: 20
+2021-09-24 17:52:29,066 - INFO - Label propagation v1
+2021-09-24 17:52:29,066 - INFO - ReadGraph started
+2021-09-24 17:52:29,066 - INFO - Combining the graph file with the classification one, in order to obtain a labelled graph
+2021-09-24 17:52:29,643 - INFO - Total number of edges in the assembly graph: 25304
+2021-09-24 17:52:29,643 - INFO - Preparing data for label propagation
+2021-09-24 17:52:29,807 - INFO - Starting label propagation
+2021-09-24 17:52:30,202 - INFO - ***************Label propagation termined**************
+2021-09-24 17:52:30,243 - INFO - Final binning results can be found at /Users/mattialuciani/ClassGraph/outputexample1.res
